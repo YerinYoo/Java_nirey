@@ -15,9 +15,6 @@ public class Gugudan3 {
 			System.out.println("----------------------");
 			System.out.println(i + "단합: " + z );
 			System.out.println("----------------------");
-	
-			
-
 
 		}
 
